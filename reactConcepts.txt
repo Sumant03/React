@@ -1,0 +1,36 @@
+React 
+
+
+1. Dont work on dom ,i will do it 
+ DOM(tree representation of page )
+
+
+2. It works on declarative approach not imperative. React says you sholud give me an example how the page should look like ,i will take care of it .
+  it reducs the time complexity.
+
+3. Building websites using a reussable code.
+   state helps to make a component which can be resue.
+
+4. Unidirectional data flow -data can flow from higher to lower level .
+
+5.UI ,rest is up to you. REACT ia just a library ,you can add other things as you want ,integrate other modules as well.
+
+
+
+
+
+
+
+
+
+Some Keywords:-
+Jsx,component,declarative,props,state,virtualDOM.
+
+
+
+
+Skills :-
+
+1. Decide on component
+2. Decide the state and where it lives
+3. what changes when state changes

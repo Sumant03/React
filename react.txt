@@ -1,0 +1,25 @@
+ # we only had html css and js
+
+ #then jquery came and help us in wiritng js files easily
+
+ #then backbone.js came and help us to maintain large no. of js files 
+
+ #then we have spa(single page application) => only one page .(ajax)
+(now what happened was ,we dont have to open new html file again and again our js file will change the html and css as per requirments)
+
+2010=> Angular.js - now we can make everythin gin different containers  and which leads to the MVC -MODEL VIEW CONSTROLLER OR MVVM
+PROBLEM WITH Angular:- The complexity increased ,it becomes difficult to maintain such large number of people ,as the structure becomes complex .
+
+And thus Facebook developers came into picture as it became difficult to maintain Facebook .
+
+
+2013=> Facebook came up with the REACT (that has a different method to make a javascript project)
+
+2014=> Angular.js becomes Angular 
+
+
+
+
+
+
+
