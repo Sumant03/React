@@ -19,6 +19,9 @@ And thus Facebook developers came into picture as it became difficult to maintai
 
 Babel=> allows us to to run same react code on different explorers like Google,E-explorers,safari etc.
 
+
+
+
 Webpack=>takes js files and implement them inspit of differnet versions
 
 
